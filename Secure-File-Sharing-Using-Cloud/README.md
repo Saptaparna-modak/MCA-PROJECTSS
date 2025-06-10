@@ -16,12 +16,11 @@ the size of organization. Many large companies and government bodies are researc
 deal with this kind of dangers and provide more secure transaction of files through cloud. These
 researches have provided us with some powerful encryption and key exchange algorithms. Some
 of the algorithms are said to be uncrackable even using current super computers. AES encryption
-and Diffie Hellman Key Exchange are one of those algorithms which we will use in our project. 
+and Diffie Hellman Key Exchange are one of those algorithms which we will use in this project. 
 
 ## System Design
 
-This system is designed such that it can be differentiated in two parts. The main aim for doing
-that is easier maintenance on later part and work division between group members. The first
+This system is designed such that it can be differentiated in two parts. The first
 part is consisting of a computer application. The task of this application is to become a bridge
 between the web-hosting application and user’s computer device. This application will be used
 to encrypt and decrypt any given file using various keys. The application will be using a symmetric
